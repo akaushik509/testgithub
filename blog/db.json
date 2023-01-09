@@ -1,0 +1,36 @@
+{
+  "blogs":[
+      {
+          "id":1,
+          "title":"Blog 1",
+          "description": "This is blog 1",
+          "author": "avinash",
+          "createdOn" : 1669728310804
+          
+      },
+      {
+          "id":2,
+          "title":"Blog 2",
+          "description": "This is blog 2",
+          "author": "avinash",
+          "createdOn" : 1669728310802
+          
+      },
+      {
+          "id":3,
+          "title":"Blog 3",
+          "description": "This is blog 3",
+          "author": "avinash",
+          "createdOn" : 1669728310803
+          
+      },
+      {
+          "id":4,
+          "title":"Blog 4",
+          "description": "This is blog 4",
+          "author": "avinash",
+          "createdOn" : 1669728310805
+          
+      }
+  ]
+}
